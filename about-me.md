@@ -3,7 +3,7 @@
 
 
 #### Ich bin der David alias Davidster14 und lerne IT. Step by Step.
-- Meinen vollständigen Lebenslauf  und weitere infos finden sie  [hier](https://google.com)
+- Meinen vollständigen Lebenslauf  und weitere Infos finden sie  [hier](https://google.com)
 
 #### Einige meiner bisherigen Arbeiten sind 
 - [Projekt 1](https://github.com/DEIN-NUTZERNAME/projekt1)
@@ -15,4 +15,7 @@
 > be water, my friend
 
 
-
+#### Ich freue mich über Feedback  feel free
+- Anregungen
+- Wünsche
+- Änderungen  

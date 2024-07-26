@@ -28,5 +28,6 @@
     * MYSQL
     * alle Inhalte einfügen 
 
-- voraussichtlicher Abschluss Full Stack Developer im November 2024
+- voraussichtlicher Abschluss Full Stack Developer im November 2024 
+- wenn ich in Ihrem team mitwirken darf, bitte meldet euch 
 
