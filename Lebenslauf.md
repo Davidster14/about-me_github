@@ -11,7 +11,7 @@
 
 #### derzeitig 
 -Weiterbildung zum Full Stack Developer bei Bergemann und Hoehne Berlin 
-- Inhalte 
+### Inhalte 
 - Frontend Developer 
     * HTML CSS Javascript
     * Bootstrap, Tailwind etc
@@ -23,7 +23,10 @@
     * Django Laravel etc
     * alle Inhalte einfügen        
 </br>
+
 - Database Developer 
     * MYSQL
     * alle Inhalte einfügen 
+
+- voraussichtlicher Abschluss Full Stack Developer im November 2024
 
