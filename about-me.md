@@ -8,7 +8,7 @@
 #### Einige meiner bisherigen Arbeiten sind 
 - [Projekt 1](https://github.com/DEIN-NUTZERNAME/projekt1)
 - [Projekt 2](https://github.com/DEIN-NUTZERNAME/projekt2)
-- [alle Inhalte einfügen ](https://github.com/DEIN-NUTZERNAME/projekt1)
+
 </br>
 </br>
 
